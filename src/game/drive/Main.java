@@ -1,8 +1,15 @@
 package game.drive;
 
+import view.GameSetupView;
+import view.MyButton;
+import view.ParentView;
+
+import java.awt.*;
+
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("hello after git");
+
+        GameSetupView theView = new GameSetupView();
     }
 }
