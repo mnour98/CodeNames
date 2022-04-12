@@ -8,7 +8,8 @@ public class PlayGameView extends ParentView {
         initComponent();
         JPanel jj = new JPanel();
         this.add(jj);
-        //I add a new comment
+        //I add a new comment --
+        //
     }
 
 
