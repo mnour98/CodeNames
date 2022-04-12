@@ -1,4 +1,17 @@
 package view;
 
-public class PlayGameView {
+import javax.swing.*;
+
+public class PlayGameView extends ParentView {
+
+    public PlayGameView(){
+        initComponent();
+        JPanel jj = new JPanel();
+        this.add(jj);
+    }
+
+
+
+
+    //Hello
 }
